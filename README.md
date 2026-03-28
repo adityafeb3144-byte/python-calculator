@@ -1,46 +1,46 @@
-# python-calculator
+Python Calculator – Version 2
 📌 Project Description
 
-This is a simple Python calculator program that performs basic arithmetic operations:
+This is Version 2 of the Simple Python Calculator.
+In this version, the calculator uses functions and a menu system so the user can choose which operation to perform. The calculator runs continuously until the user selects Exit.
 
-Addition
-Subtraction
-Multiplication
-Division
-
-The program takes two numbers as input from the user and prints the results of all operations.
-
+✨ Features
+Menu-driven program
+Uses functions for each operation
+Continuous running using loop
+User can choose operation
+Exit option available
 🛠️ Technologies Used
-Python (Beginner Level)
-Command Line / Terminal
-▶️ How to Run the Program
-Install Python on your computer.
+Python
+Functions
+While Loop
+Conditional Statements (if-elif-else)
+▶️ How to Run
+Make sure Python is installed.
 Download or clone this repository.
-Open terminal or command prompt in the project folder.
-Run the program:
-python calculator.py
-Enter two numbers when asked.
-The program will display:
-Addition
-Subtraction
-Multiplication
-Division
-💻 Example Output
-Enter first number: 10
-Enter second number: 5
-Add: 15
-Subtract: 5
-Multiply: 50
-Divide: 2.0
-📚 What I Learned
-Taking user input in Python
-Type casting (int)
-Basic arithmetic operations
-Printing output
-Writing a simple Python program
-🚀 Future Improvements
-Add modulus operation
-Add power operation
-Add loop so calculator runs continuously
-Add error handling for division by zero
-Convert into GUI calculator
+Open terminal in project folder.
+Run:
+python calculator_v2.py
+💻 Menu Example
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice:
+📚 What I Learned From This Version
+How to use functions
+How to use loops
+How to create menu-driven programs
+How to use conditional statements
+How to structure a Python program
+🚀 Future Improvements (Version 3 Ideas)
+Handle division by zero
+Add modulus (%)
+Add power (**)
+Add square root
+Use try-except for error handling
+Add date and time feature
+Store calculation history
+Create GUI calculator
+Create web calculator
